@@ -1,0 +1,1 @@
+# Read-toothpaste-sales-data-of-each-month-and-show-it-using-a-scatter-plot
